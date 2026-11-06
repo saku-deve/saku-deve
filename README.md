@@ -149,11 +149,16 @@ experimenting with innovative tech stacks, and exploring new digital possibiliti
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=saku-deve&show_icons=true&theme=dark" width="90%" alt="GitHub Stats" />
+<img src="https://streak-stats.demolab.com?user=saku-deve&theme=tokyonight&hide_border=true&background=020617&ring=38BDF8&fire=22D3EE&currStreakLabel=38BDF8" width="95%" alt="GitHub Streak" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saku-deve&layout=compact&theme=dark" width="90%" alt="Top Languages" />
+<a href="https://github.com/saku-deve">
+  <img src="https://img.shields.io/badge/GitHub-Profile-0284C7?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
+</a>
+<a href="https://github.com/saku-deve?tab=repositories">
+  <img src="https://img.shields.io/badge/Repositories-Public-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
+</a>
 
 </div>
 
@@ -167,7 +172,7 @@ experimenting with innovative tech stacks, and exploring new digital possibiliti
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 <a href="https://sakudayo.com">
-  <img src="https://img.shields.io/badge/Website-0284C7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Personal Website" />
+  <img src="https://img.shields.io/badge/Personal%20Website-0284C7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Personal Website" />
 </a>
 
 <br/><br/>
