@@ -45,11 +45,11 @@ I enjoy exploring new technologies and transforming ideas into useful digital ex
 
 ### Development
 
-<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,androidstudio&theme=dark" />
 
 ### Infrastructure & Platforms
 
-<img src="https://skillicons.dev/icons?i=cloudflare,windows,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=cloudflare,windows,linux,android&theme=dark" />
 
 </div>
 
