@@ -1,41 +1,65 @@
- <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:075985,70:0284C7,100:22D3EE&height=240&section=header&text=Saku&fontSize=85&fontColor=FFFFFF&fontAlignY=38&desc=CREATIVE%20DEVELOPER%20%7C%20TECH%20ENTHUSIAST&descSize=15&descAlignY=60&animation=fadeIn" width="100%" />
+<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Saku+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile;Creating+Digital+Experiences;Turning+Ideas+Into+Reality;Always+Building+Something+New+%E2%9C%A8" />
-
-<br/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-saku--deve-0F172A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saku-deve)
-[![Website](https://img.shields.io/badge/Website-sakudayo.com-0284C7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sakudayo.com)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:075985,70:0284C7,100:22D3EE&height=230&section=header&text=Saku&fontSize=85&fontColor=FFFFFF&fontAlignY=38&desc=CREATIVE%20DEVELOPER%20%7C%20TECH%20ENTHUSIAST&descSize=15&descAlignY=60&animation=fadeIn" width="100%" alt="Saku Header" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=saku-deve&label=PROFILE%20VIEWS&color=0891B2&style=for-the-badge" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&height=45&lines=Hello%2C+I'm+Saku+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile;Creating+Digital+Experiences;Turning+Ideas+Into+Reality;Always+Building+Something+New+%E2%9C%A8" alt="Typing SVG" />
+
+<br/><br/>
+
+<a href="https://github.com/saku-deve">
+<img src="https://img.shields.io/badge/GitHub-saku--deve-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://sakudayo.com">
+<img src="https://img.shields.io/badge/Website-sakudayo.com-0284C7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=saku-deve&label=PROFILE%20VIEWS&color=0891B2&style=for-the-badge" alt="Profile Views" />
 
 </div>
 
 ---
 
-<div align="center">
-
 ## ✦ ABOUT ME
 
-**Hi, I'm Saku.**
+<div align="center">
+
+### Hi, I'm Saku.
 
 Creative Developer passionate about technology, web development and digital creativity.
 
 I enjoy exploring new technologies and transforming ideas into useful digital experiences.
 
+<br/>
+
 </div>
 
-| | |
-|:---|:---|
-| 👨‍💻 Name | Saku |
-| 🌐 Website | [sakudayo.com](https://sakudayo.com) |
-| 💡 Interests | Web Development / Technology / Design |
-| 🚀 Focus | Building creative digital projects |
-| ⚡ Motto | Create. Innovate. Explore. |
+<table align="center" width="100%">
+<tr>
+<td width="30%" align="center"><b>👨‍💻 Name</b></td>
+<td width="70%">Saku</td>
+</tr>
+<tr>
+<td align="center"><b>🌐 Website</b></td>
+<td><a href="https://sakudayo.com">sakudayo.com</a></td>
+</tr>
+<tr>
+<td align="center"><b>💡 Interests</b></td>
+<td>Web Development / Technology / Design</td>
+</tr>
+<tr>
+<td align="center"><b>🚀 Focus</b></td>
+<td>Building creative digital projects</td>
+</tr>
+<tr>
+<td align="center"><b>⚡ Motto</b></td>
+<td>Create. Innovate. Explore.</td>
+</tr>
+</table>
 
 ---
 
@@ -45,11 +69,13 @@ I enjoy exploring new technologies and transforming ideas into useful digital ex
 
 ### Development
 
-<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,androidstudio&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,androidstudio&theme=dark" alt="Development Skills" />
+
+<br/><br/>
 
 ### Infrastructure & Platforms
 
-<img src="https://skillicons.dev/icons?i=cloudflare,windows,linux,android&theme=dark" />
+<img src="https://skillicons.dev/icons?i=cloudflare,windows,linux,android&theme=dark" alt="Infrastructure and Platforms" />
 
 </div>
 
@@ -62,19 +88,49 @@ I enjoy exploring new technologies and transforming ideas into useful digital ex
 ### Explore My Work
 
 <a href="https://github.com/saku-deve?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE-ALL%20PROJECTS-0284C7?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/EXPLORE-ALL%20PROJECTS-0284C7?style=for-the-badge&logo=github&logoColor=white" alt="Explore Projects" />
 </a>
+
+<br/><br/>
 
 </div>
 
 I enjoy building websites, tools and digital experiences.
 
-| Category | Description |
-|:---|:---|
-| 🌐 Web Development | Modern HTML / CSS / JavaScript projects |
-| ⚙️ Web Applications | Useful tools and utilities |
-| 🎨 Creative Projects | Design-oriented digital creations |
-| 💻 Experiments | Exploring new technologies |
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**🌐 Web Development**
+
+Modern HTML / CSS / JavaScript projects
+
+</td>
+<td width="50%" valign="top">
+
+**⚙️ Web Applications**
+
+Useful tools and utilities
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🎨 Creative Projects**
+
+Design-oriented digital creations
+
+</td>
+<td width="50%" valign="top">
+
+**💻 Experiments**
+
+Exploring new technologies
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -82,7 +138,9 @@ I enjoy building websites, tools and digital experiences.
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/SAKULAB-CREATIVE%20TECHNOLOGY-0284C7?style=for-the-badge&labelColor=020617" />
+<img src="https://img.shields.io/badge/SAKULAB-CREATIVE%20TECHNOLOGY-0284C7?style=for-the-badge&labelColor=020617" alt="SAKULAB" />
+
+<br/><br/>
 
 ### Create Something Beyond Imagination.
 
@@ -93,7 +151,7 @@ Building digital tools, experimenting with technology and exploring new possibil
 <br/>
 
 <a href="https://www.sakulab.net">
-<img src="https://img.shields.io/badge/VISIT-SAKULAB-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" />
+<img src="https://img.shields.io/badge/VISIT-SAKULAB-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit SAKULAB" />
 </a>
 
 </div>
@@ -104,7 +162,7 @@ Building digital tools, experimenting with technology and exploring new possibil
 
 <div align="center">
 
-<img width="90%" src="https://streak-stats.demolab.com?user=saku-deve&theme=tokyonight&hide_border=true&background=020617&ring=38BDF8&fire=22D3EE&currStreakLabel=38BDF8" />
+<img src="https://streak-stats.demolab.com?user=saku-deve&theme=tokyonight&hide_border=true&background=020617&ring=38BDF8&fire=22D3EE&currStreakLabel=38BDF8" width="90%" alt="GitHub Streak" />
 
 </div>
 
@@ -115,10 +173,10 @@ Building digital tools, experimenting with technology and exploring new possibil
 <div align="center">
 
 <a href="https://github.com/saku-deve">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 <a href="https://sakudayo.com">
-<img src="https://img.shields.io/badge/Personal%20Website-0284C7?style=for-the-badge&logo=googlechrome&logoColor=white" />
+<img src="https://img.shields.io/badge/Personal%20Website-0284C7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Personal Website" />
 </a>
 
 <br/><br/>
@@ -127,6 +185,8 @@ Building digital tools, experimenting with technology and exploring new possibil
 
 Feel free to explore my projects.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,35:0284C7,70:075985,100:020617&height=150&section=footer&animation=fadeIn" width="100%" />
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,35:0284C7,70:075985,100:020617&height=150&section=footer&animation=fadeIn" width="100%" alt="Footer" />
 
 </div>
