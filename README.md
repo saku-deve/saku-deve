@@ -104,17 +104,9 @@ Building digital tools, experimenting with technology and exploring new possibil
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=saku-deve&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38BDF8&icon_color=22D3EE&text_color=CBD5E1&rank_icon=github" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saku-deve&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38BDF8&text_color=CBD5E1" />
-
 <br/><br/>
 
 <img width="90%" src="https://streak-stats.demolab.com?user=saku-deve&theme=tokyonight&hide_border=true&background=020617&ring=38BDF8&fire=22D3EE&currStreakLabel=38BDF8" />
-
-<br/><br/>
-
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=saku-deve&bg_color=020617&color=38BDF8&line=0EA5E9&point=22D3EE&area=true&hide_border=true&custom_title=Contribution%20Activity" />
 
 </div>
 
