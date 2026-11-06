@@ -149,12 +149,11 @@ experimenting with innovative tech stacks, and exploring new digital possibiliti
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=saku-deve&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617" width="48%" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saku-deve&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617" width="45%" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=saku-deve&show_icons=true&theme=dark" width="90%" alt="GitHub Stats" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=saku-deve&theme=tokyonight&hide_border=true&background=020617&ring=38BDF8&fire=22D3EE&currStreakLabel=38BDF8" width="95%" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saku-deve&layout=compact&theme=dark" width="90%" alt="Top Languages" />
 
 </div>
 
