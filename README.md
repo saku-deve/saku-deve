@@ -92,7 +92,7 @@ Building digital tools, experimenting with technology and exploring new possibil
 
 <br/>
 
-<a href="https://sakudayo.com">
+<a href="https://www.sakulab.net">
 <img src="https://img.shields.io/badge/VISIT-SAKULAB-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 
